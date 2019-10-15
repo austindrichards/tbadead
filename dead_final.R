@@ -12,7 +12,7 @@ library(miniUI)
 
 
 
-get_token()
+get_token() #need twitter API developer credentials, after that's set up this will work
 
 
 
